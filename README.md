@@ -1,4 +1,4 @@
-<h1> Utilizando-me do <a href="https://startbootstrap.com/template-overviews/resume/">Template Resume</a> da Start Bootstrap, criei essa bela apresentação em forma de Web Site:<br><h2 align="center">https://gabrielltmonteiro.github.io</h2></h2>
+
 </br></br>
 <p>&nbsp; &nbsp; &nbsp; Ainda tem algumas coisas a corrigir e outras tantas que irei mudar, mas no saldo geral, tive uma experiência muito positiva, chegando a um resultado orgulhável em menos de 2 dias. Qualquer dúvida, me procure no linkedin:</p>
 <p align="center"><a href="https://www.linkedin.com/in/gltm-jrsoftwaredeveloper"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
